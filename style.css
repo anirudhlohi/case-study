@@ -1,0 +1,22 @@
+body{
+    background-color: #26fcfc;
+    font-family: 'ZCOOL KuaiLe', cursive;
+}
+.header{
+    background-color: white;
+    color: red;
+}
+.header img{
+    width: 100px;
+}
+.text_images{
+    background-color: #2565cc;
+    box-shadow: 20px 20px 18px white;
+    border-radius: 10px;
+}
+.text_images img{
+    width: 250px;
+    height: 230px;
+    border-radius: 8px;
+    border: 2px solid white;
+}
